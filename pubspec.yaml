@@ -1,6 +1,8 @@
 name: dart_package_template
 version: 1.0.0
 homepage: https://github.com/marchdev-tk/dart_package_template
+repository: https://github.com/marchdev-tk/dart_package_template
+issue_tracker: https://github.com/marchdev-tk/dart_package_template/issues
 description: dart_package_template description
 
 environment:
