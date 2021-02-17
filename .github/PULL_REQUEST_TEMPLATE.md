@@ -11,13 +11,13 @@
 I added the following tests:
 
 *Replace this with a list of the tests that you added as part of this PR. A change in behaviour with no test covering it
-will likely get reverted accidentally sooner or later. PRs must include tests for all changed/updated/fixed behaviors. See [Test Coverage].*
+will likely get reverted accidentally sooner or later. PRs must include tests for all changed/updated/fixed behaviors.*
 
 ## Checklist
 
 Before you create this PR confirm that it meets all requirements listed below by checking the relevant checkboxes (`[x]`). This will ensure a smooth and quick review process.
 
-- [ ] I read and followed the [Flutter Style Guide], including [Features we expect every widget to implement].
+- [ ] I read and followed the [Flutter Style Guide].
 - [ ] I updated/added relevant documentation (doc comments with `///`).
 - [ ] All existing and new tests are passing.
 - [ ] The analyzer (`flutter analyze --flutter-repo`) does not report any problems on my PR.
@@ -29,11 +29,9 @@ Did any tests fail when you ran them?
 
 - [ ] No, no existing tests failed, so this is *not* a breaking change.
 - [ ] Yes, this is a breaking change. *If not, delete the remainder of this section.*
-   - [ ] I wrote a design doc: https://flutter.dev/go/template *Replace this with a link to your design doc's short link*
+   - [ ] I wrote a design doc: *Replace this with a link to your design doc's short link*
    - [ ] I got input from the developer relations team, specifically from: *Replace with the names of who gave advice*
    - [ ] I wrote a migration guide: *Replace with a link to your migration guide*
 
 <!-- Links -->
-[Test Coverage]: https://github.com/flutter/flutter/wiki/Test-coverage-for-package%3Aflutter
 [Flutter Style Guide]: https://github.com/flutter/flutter/wiki/Style-guide-for-Flutter-repo
-[Features we expect every widget to implement]: https://github.com/flutter/flutter/wiki/Style-guide-for-Flutter-repo#features-we-expect-every-widget-to-implement
